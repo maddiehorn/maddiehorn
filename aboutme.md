@@ -1,16 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Academic Background
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I attended Indiana University of Pennsylvania (IUP), which is located in the small town of Indiana, PA. In 2020, I graduated with my B.S. in Biochemistry, along with a minor in Mathematics. My undergraduate research focused on the interaction between antidepressants and fluctuations in menstrual cycle hormones.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+This May, I will graduate from Cornell University with my Master’s of Engineering in Biomedical Engineering. During my time at Cornell, I worked on a research project sponsored by West Pharmaceuticals investigating adverse events related to injections. 
