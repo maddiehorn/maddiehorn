@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Academic background
-subtitle: Details 
 gh-repo: maddiehorn/maddiehorn.github.io
-tags: [test]
 comments: false
 ---
 
